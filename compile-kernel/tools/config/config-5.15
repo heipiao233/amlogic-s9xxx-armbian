@@ -6924,7 +6924,7 @@ CONFIG_DVB_SP8870=m
 #
 # Android
 #
-# CONFIG_ASHMEM is not set
+CONFIG_ASHMEM=y
 # end of Android
 
 # CONFIG_STAGING_BOARD is not set
